@@ -60,7 +60,7 @@ int main(int argc, char* argv[]) {
     SDL_RenderClear(renderer);
 
     // Load the GIF frames into an array of textures
-    const char *beeImagePath = "C:\\Users\\rayou\\OneDrive\\Desktop\\Decoding the Universe with Intelligence\\WayofDeepLearningProjects\\waggledance2\\pkgconfig\\bee.gif";
+    const char *beeImagePath = "//here we specify the image path ";
     SDL_Texture *beeTextures[NUM_FRAMES];
     int beeWidth, beeHeight;
     for (int i = 0; i < NUM_FRAMES; ++i) {
