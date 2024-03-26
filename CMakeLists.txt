@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.25)
 project(waggledance2)
 
 # Set the path to SDL2 (modify this path accordingly)
-set(SDL2_PATH "C:\\Users\\rayou\\OneDrive\\Desktop\\Decoding the Universe with Intelligence\\Uni Knowledge\\Semester 2\\Programmieren 2\\bin\\mingw\\include\\SDL2")
+set(SDL2_PATH "path for the library ")
 # Find SDL2
 find_package(SDL2 REQUIRED)
 
