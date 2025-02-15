@@ -9,6 +9,13 @@ And your Lord inspired the bees: “Make ˹your˺ homes in the mountains, the tr
  ثُمَّ كُلِي مِن كُلِّ الثَّمَرَاتِ فَاسْلُكِي سُبُلَ رَبِّكِ ذُلُلًا ۚ يَخْرُجُ مِن بُطُونِهَا شَرَابٌ مُّخْتَلِفٌ أَلْوَانُهُ فِيهِ شِفَاءٌ لِّلنَّاسِ ۗ إِنَّ فِي ذَٰلِكَ لَآيَةً لِّقَوْمٍ يَتَفَكَّرُونَ (69)
  and feed from ˹the flower of˺ any fruit ˹you please˺ and follow the ways your Lord has made easy for you.” From their bellies comes forth liquid of varying colours,
 in which there is healing for people. Surely in this is a sign for those who reflect.
+
+
+
+
+
+
+
 َ
 so when searching I was fascinated by the way that a working bee that found a food source will communicate the exact
 position of the food source. the working bee will perform a waggling movement that every bee will understand. 
